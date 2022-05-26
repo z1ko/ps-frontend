@@ -1,4 +1,2 @@
-import { createSignal } from "solid-js";
 
-// Tutt le pillole da renderizzare
-export const [ pills, setPills ] = createSignal([])
+export const CURRENT_LANGUAGE = 'it'
